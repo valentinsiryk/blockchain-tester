@@ -1,0 +1,5 @@
+# CI/CD steps to for the CLI application:
+# - run linter
+# - run unit-tests
+# - build docker image / build binary
+# - push docker image to registry / push binary to artifact storage
